@@ -15,6 +15,7 @@ Round2:-(Design round)
 4.Caching related
 5.DB optimization(sharding and indexing)
 6.transactions
+7.How to redirect UI according to different locations in a microservice
 
 Round3:- (Culture fitment)
 (started with introduction)
