@@ -6,3 +6,5 @@ Round1:-
 4.Thread lifecycle and multithreading concepts
 5.Sorting a class using streams based on condition ( complete code)
 6.How to throw exceptions in springboot.
+7.Types of functional interfaces and their methods
+8.How to solve diamond problem in java8 using default methods
