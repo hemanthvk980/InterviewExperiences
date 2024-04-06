@@ -1,0 +1,21 @@
+Round1:-
+1.Started with introduction
+2.Difference between stream and collection
+3.Comparable and comparators
+4.Sort a class using java stream and return map (PROBLEM)
+5.Sort a list of numbers using java8 stream and return square of even numbers (PROBLEM)
+6.Java 8 features
+7.Sigleton and prototype scope springboot
+8.How to implement singleton class
+9.Types of functional interafaces
+10.Access modifiers
+11.Interfaces and abstract classes
+12.@SpringbootApplication anotation explanation
+13.Data flow in a springbootapplication (Controller>> Service >> Repository)
+14.Difference between restController and controller annotations
+15.Service and component annotations
+16.Difference between intermediate and terminal
+17.Name some terminal and intermediate operations
+18.Difference between map and filter
+19.What are optionals in java8
+20.@RequestBody and @RequestParam annotation
