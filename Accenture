@@ -7,7 +7,7 @@ Round1:-
 6.Java 8 features
 7.Sigleton and prototype scope springboot
 8.How to implement singleton class
-9.Types of functional interafaces
+9.Types of functional interfaces
 10.Access modifiers
 11.Interfaces and abstract classes
 12.@SpringbootApplication anotation explanation
@@ -19,3 +19,21 @@ Round1:-
 18.Difference between map and filter
 19.What are optionals in java8
 20.@RequestBody and @RequestParam annotation
+
+Round2:-
+1.Introduction about myself and discussion on project
+2.Detailed explanation on OOPS
+3.Compile time vs runtime
+4.Design patterns (usecase of strategy design pattern)
+5.Singleton design pattern explantaion
+6.Why springboot instead of spring
+7.benefits of springboot
+8.Explanation of mvc architechture
+9.Annotations in springboot
+10.hibernate basics
+11.sql 
+12.Candidate key vs primary key
+13.Joins discussion
+14.Scrum methodology
+15.any positive learning from my job.
+16.Recently challenging task in project.
